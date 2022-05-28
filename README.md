@@ -10,7 +10,7 @@
   Some of my personal projects include several web applications like:<br>
   [Soundlib](https://soundlib.jkbgl.net), [Imagelib](https://img.jkbgl.net), [#10485](https://osu.jkbgl.net) and a lot (*a lot*) more.<br>
 
-  As goes for interests: I like playing games, enjoy watching anime and playing games like most others do.<br>
+  As goes for interests: I like writing software, enjoy watching anime and playing games like most others do.<br>
   I also own quite a bit of infrastructure you might already be using (*not saying what it is though*)!<br><br>
   My favourite language is C++, next up is Python and then there goes PHP which was used for a lot of my earlier web projects and services.<br>
   I enjoy tackling challenges head on and given the time I overcome all of them.<br>
