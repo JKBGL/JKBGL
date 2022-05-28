@@ -5,7 +5,7 @@
   I don't know why you might be interested in my Github account, but hope you get a nice read out of it!<br><br>
   I am a professional software engineer developing enterprise business applications.<br>
   I have no interest in making big public projects for the time being and as such most of my github profile is private. (*maybe in the future?*)<br>
-  The reason for my drastic turn to closed source is mostly due to third party disrespect and claiming a number of my bigger projects as theirs.<br>
+  The reason for my drastic turn to closed source is mostly due to third party disrespect.<br>
 
   Some of my personal projects include several web applications like:<br>
   [Soundlib](https://soundlib.jkbgl.net), [Imagelib](https://img.jkbgl.net), [#10485](https://osu.jkbgl.net) and a lot (*a lot*) more.<br>
